@@ -10,7 +10,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 - HTML
 - CSS
-- JavaScript (if used)
+- JavaScript
 - GitHub Pages (for hosting)
 
 ## How to View the Portfolio
