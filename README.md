@@ -15,7 +15,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## How to View the Portfolio
 
-You can view the live website at: [https://Krawlii.github.io](https://Krawlii.github.io)
+You can view the live website at: https://krawlii.github.io/Krawli.github.io/
 
 ## Contact
 
