@@ -23,6 +23,6 @@ You can reach me at:
 - 📧 Email: ruadojr.michael@gmail.com
 - 📞 Phone: +639479351997
 - 🔗 [GitHub](https://github.com/Krawlii)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/krawlii)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/michael-ruado-jr-1708a3360)
 
 Feel free to explore my projects, and thank you for visiting!
