@@ -6,7 +6,7 @@ Welcome to my personal portfolio website!
 
 This is my personal portfolio website showcasing my projects, skills, and experience as an IT Support professional and developer. The website includes information about my freelance PC building work, capstone project, and IT support knowledge base.
 
-## Technologies Used
+## Built With
 
 - HTML
 - CSS
